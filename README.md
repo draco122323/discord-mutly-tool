@@ -1,22 +1,62 @@
 # Clogsmarket - Discord Token Tool 
 
-This is a ** Discord tool ** designed for token operations Made my Clogsmarket.
+This is a ** Discord tool ** designed for Discord ONLY Made by Clogsmarket.
 
-### 🧰 Features 
-- Validate tokens from `tokens.txt`
-- Auto join a Discord server using token list
-- Nitro boosting from available tokens
-- Organize tokens into `valid` and `invalid`
-- Fetch user info like username and email status
-
-### 🖥 Requirements
-- Python 3.8+
-- Platform: Windows/Linux/macOS
-
-### 📁 File Structure
-- `script.py` — Main launcher script
-- `tokens.txt` — (Optional) Supply token list
-- `output/valid.txt` & `output/invalid.txt` — Organized token output
+🔐 Token & Authentication
+Token
+Validation
+Authentication
+MFA
+Session
+Bearer
+Credential
+Authorization
+Header
+Secure
+🛠️ Tool Features
+Joiner
+Booster
+Organizer
+Checker
+Generator
+Formatter
+Verifier
+Manager
+Resetter
+Backup
+📤 Communication & Actions
+DM
+MassDM
+FriendRequest
+ServerInvite
+Leave
+Status
+Presence
+Activity
+Bio
+Message
+⚙️ Utility & Operation
+CLI
+Loader
+Script
+Console
+Process
+Menu
+Option
+Task
+Thread
+Automation
+🌐 Network & Proxy
+Proxy
+IP
+Request
+RateLimit
+Response
+Headers
+Payload
+Endpoint
+API
+Ping
 
 ⚠️ Disclaimer
 This project is intended for educational purposes only. It was created solely to help me better understand how Discord tools and automation scripts function in a safe, local environment.
@@ -28,7 +68,7 @@ You are solely responsible for how you choose to use this project. By running or
 Use at your own risk, and always respect platform rules and community guidelines.
 
 
-💸JOIN FOR THA WORKING VERSION AND MUCH MORE💸 
+#💸JOIN FOR THA WORKING VERSION AND MUCH MORE💸 
 
-Telegram: @Clogawarehouse
+# ‼️Telegram‼️: @Clogawarehouse
 
